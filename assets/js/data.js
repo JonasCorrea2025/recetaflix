@@ -9,7 +9,7 @@ const CONFIG = {
   // 🔒 Contraseña de acceso (cambiala antes de publicar):
   password: "alumna859",
   // Enlaces de comunidad / soporte (reemplazá por los tuyos):
-  whatsappGroup: "https://chat.whatsapp.com/TU-GRUPO",
+  whatsappGroup: "https://chat.whatsapp.com/C0qRWigqyLg3NwYJA0raXt?mode=gi_t",
   instagram: "https://instagram.com/sigaprofmaria",
   supportWhatsapp: "https://wa.me/000000000000",
   hero: {

@@ -223,7 +223,7 @@
     renderNav();
     window.addEventListener("hashchange", router);
     window.addEventListener("scroll", () => $("#nav").classList.toggle("solid", window.scrollY > 30));
-    if (!location.hash) location.hash = "#/home";
+    if (!location.hash || location.hash === "#/" || location.hash === "#/home") location.hash = "#/materiales";
     router();
   }
   function init() {
