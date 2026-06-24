@@ -37,8 +37,8 @@ const MODULES = [
     thumb: "assets/img/thumbs/mini-tortas.jpg",
     desc: "Tu punto de partida: cómo está organizado el curso y la mentalidad para transformar tu cocina en un negocio rentable.",
     lessons: [
-      { title: "Bienvenida al curso", duration: "3 min", video: { type: "mp4", src: "videos/01.mp4" }, desc: "Te damos la bienvenida y te mostramos lo que vas a lograr." },
-      { title: "Cómo aprovechar la plataforma", duration: "4 min", video: { type: "mp4", src: "videos/02.mp4" }, desc: "Recorrido por los módulos, materiales y bonus." },
+      { title: "Bienvenida al curso", duration: "3 min", video: null, desc: "Te damos la bienvenida y te mostramos lo que vas a lograr." },
+      { title: "Cómo aprovechar la plataforma", duration: "4 min", video: null, desc: "Recorrido por los módulos, materiales y bonus." },
       { title: "Tu mentalidad de negocio", duration: "6 min", video: null, desc: "El cambio de chip de 'hobby' a negocio que factura." },
     ],
   },
