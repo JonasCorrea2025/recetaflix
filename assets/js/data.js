@@ -7,7 +7,7 @@ const CONFIG = {
   brand: "RecetaFLIX",               // nombre de la plataforma (cambialo si querés)
   instructor: "María Repostera",
   // 🔒 Contraseña de acceso (cambiala antes de publicar):
-  password: "MiniTortas2026",
+  password: "alumna859",
   // Enlaces de comunidad / soporte (reemplazá por los tuyos):
   whatsappGroup: "https://chat.whatsapp.com/TU-GRUPO",
   instagram: "https://instagram.com/sigaprofmaria",
