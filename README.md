@@ -1,4 +1,4 @@
-# CaseirinhosFLIX — Área de Miembros (ES / LATAM)
+# RecetaFLIX — Área de Miembros (ES / LATAM)
 
 Área de miembros estilo Netflix para el curso **Mini Tortas Caseras Rentables**, en español.
 Sitio **100% estático** (HTML/CSS/JS, sin build, sin backend) — se publica en cualquier hosting estático.
@@ -11,7 +11,7 @@ Instructora: **María Repostera** · Idioma: Español neutro (LATAM)
 
 **Opción A — Netlify (la más fácil):**
 1. Entrá a [app.netlify.com/drop](https://app.netlify.com/drop)
-2. Arrastrá **toda la carpeta** `CaseirinhosFLIX-ES` a la página.
+2. Arrastrá **toda la carpeta** `recetaflix` a la página.
 3. Listo: te da una URL pública. (Podés conectar tu dominio después.)
 
 **Opción B — Vercel:** importá el repo o subí la carpeta en [vercel.com/new](https://vercel.com/new). Sin configuración (framework: *Other*).
@@ -52,7 +52,7 @@ video: null                                        // ← muestra "Próximamente
 ## 📁 Estructura
 
 ```
-CaseirinhosFLIX-ES/
+recetaflix/
 ├─ index.html              ← entrada
 ├─ assets/
 │  ├─ css/styles.css       ← estilos

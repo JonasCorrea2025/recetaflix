@@ -3,7 +3,7 @@
   "use strict";
   const $ = (s, r = document) => r.querySelector(s);
   const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const brandHTML = `<span class="brand"><span class="case">Caseirinhos</span><span class="flix">FLIX</span></span>`;
+  const brandHTML = `<span class="brand"><span class="case">Receta</span><span class="flix">FLIX</span></span>`;
   const AUTH_KEY = "cf_auth_v1";
   const PROG_KEY = "cf_progress_v1";
 
@@ -46,7 +46,7 @@
   function renderNav() {
     const initial = CONFIG.instructor.trim()[0] || "M";
     $("#nav").innerHTML = `
-      <div class="brand" data-link="#/home"><span class="case">Caseirinhos</span><span class="flix">FLIX</span></div>
+      <div class="brand" data-link="#/home"><span class="case">Receta</span><span class="flix">FLIX</span></div>
       <nav class="links">
         <a data-link="#/home" data-route="home">Inicio</a>
         <a data-link="#/modulos" data-route="modulos">Módulos</a>

@@ -4,7 +4,7 @@
    ============================================================ */
 
 const CONFIG = {
-  brand: "CaseirinhosFLIX",          // nombre de la plataforma (cambialo si querés)
+  brand: "RecetaFLIX",               // nombre de la plataforma (cambialo si querés)
   instructor: "María Repostera",
   // 🔒 Contraseña de acceso (cambiala antes de publicar):
   password: "MiniTortas2026",
